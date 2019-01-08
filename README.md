@@ -1,25 +1,27 @@
 # Data Dashboard
 
-* **Track:** _Common Core_
-* **Curso:** _Creando tu primer sitio web interactivo_
-* **Unidad:** _Producto final_
+* **Objetivo:** Criar um Data Dashboard com informações das Alunas do Bootcamp da Laboratoria visando facilitar a visualização dos dados pela nossa Training Manenger.
 
-***
+## Fluxo do Data Dashboard
 
-## Flujo de trabajo
+* O número total de alunas presentes pela sede e geração.
 
-1. Debes realizar un [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
-   de este repositorio.
+* A porcentagem de alunas desistentes
 
-2. Luego deberás **clonar** tu fork en tu máquina. Recuerda que el comando a usar
-   es `git clone` y su estructura normalmente se ve así:
+* O número de alunas que excedem a meta de pontos, em média, de todos os sprints realizados. O objetivo dos pontos é 70% do total de pontos em HSE e em tecnologia.
 
-   ```bash
-   git clone https://github.com/<nombre-de-usuario>/freelancer.git
-   ```
+* A porcentagem que representa os dados anteriores em relação ao total de alunas.
 
-3. Cuando hayas terminado tu producto, envía un Pull Request a este repositorio
-   (puedes solicitar apoyo de tus profes para este paso).
+* O Net Promoter Score (NPS) médio dos sprints realizados. O NPS é calculado com base no levantamento que as estudantes respondem em relação à recomendação que dariam da Laboratoria.
 
-> Nota: No olvides que es una buena práctica describir tu proyecto en este
-> archivo `README.md` y también desplegar tu web a Github Pages :smiley:.
+* A quantidade e porcentagem que representa o total de alunas que excedem a meta de pontos técnicos em média e sprint.
+
+* O valor e a porcentagem que representam o número total de alunas que excedem a meta de pontos de HSE, em média, e por sprint.
+
+* O percentual de alunas satisfeitas com a experiência da Laboratoria.
+
+* A pontuação média das professoras.
+
+* A pontuação média das professoras.
+
+* **Complemento:** Na Laboratoria (e especialmente a TMS) somos viciadas à representação gráfica dos dados, como mostrado no desenho, que seria ideal para exibir os dados processados num gráfico como o design proposto ou alternativa.
